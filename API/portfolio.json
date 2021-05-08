@@ -2,55 +2,55 @@
   {
     "id": 1,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   },
   {
     "id": 2,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   },
   {
     "id": 3,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   },
   {
     "id": 4,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   },
   {
     "id": 5,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   },
   {
     "id": 6,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   },
   {
     "id": 7,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   },
   {
     "id": 8,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   },
   {
     "id": 9,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   },
   {
@@ -68,13 +68,13 @@
   {
     "id": 11,
     "name": "game",
-    "img": "proj2.jpg",
+    "imgBig": "proj2.jpg",
     "imgBigHeight": 1345
   },
   {
     "id": 12,
     "name": "fengo",
-    "img": "proj3.jpg",
+    "imgBig": "proj3.jpg",
     "imgBigHeight": 798
   }
 ]
