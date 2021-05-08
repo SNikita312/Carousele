@@ -1,29 +1,26 @@
 [
   {
     "id": 1,
-    "active": true,
-    "left": "0",
-    "animationLeft": false,
-    "animationRight": false,
-    "works": [
-      {
-        "id": 1,
-        "name": "brand",
-        "img": "proj1.jpg",
-        "imgHeight": 965
-      },
-      {
-        "id": 2,
-        "name": "game",
-        "img": "proj2.jpg",
-        "imgHeight": 1345
-      },
-      {
-        "id": 3,
-        "name": "fengo",
-        "img": "proj3.jpg",
-        "imgHeight": 798
-      }
-    ]
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
+  },
+  {
+    "id": 2,
+    "name": "game",
+    "img": "proj2.jpg",
+    "imgBigHeight": 1345
+  },
+  {
+    "id": 3,
+    "name": "fengo",
+    "img": "proj3.jpg",
+    "imgBigHeight": 798
   }
 ]
