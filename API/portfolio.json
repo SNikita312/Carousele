@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "active": true,
+    "left": "0",
+    "animationLeft": false,
+    "animationRight": false,
+    "works": [
+      {
+        "id": 1,
+        "name": "brand",
+        "img": "proj1.jpg",
+        "imgHeight": 965
+      },
+      {
+        "id": 2,
+        "name": "game",
+        "img": "proj2.jpg",
+        "imgHeight": 1345
+      },
+      {
+        "id": 3,
+        "name": "fengo",
+        "img": "proj3.jpg",
+        "imgHeight": 798
+      }
+    ]
+  }
+]
