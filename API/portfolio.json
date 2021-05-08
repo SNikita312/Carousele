@@ -1,57 +1,112 @@
 [
   {
     "id": 1,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgCatalogBig": "brand-home-catalog-big.jpg",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 2,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 3,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 4,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 5,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 6,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 7,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 8,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 9,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 10,
@@ -67,14 +122,26 @@
   },
   {
     "id": 11,
-    "name": "game",
-    "imgBig": "proj2.jpg",
-    "imgBigHeight": 1345
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   },
   {
     "id": 12,
-    "name": "fengo",
-    "imgBig": "proj3.jpg",
-    "imgBigHeight": 798
+    "name": "brand",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgBigHeight": 965,
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
+    "adaptive": "Проект не адаптивный",
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
   }
 ]
