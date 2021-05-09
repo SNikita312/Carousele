@@ -31,7 +31,7 @@
     "imgCatalogBig": "historical-home-catalog-big.jpg",
     "imgBig": "proj2.jpg",
     "imgSmall": ["historical-gallery-catalog-small.jpg","historical-product-catalog-small.jpg","historical-contact-catalog-small.jpg"],
-    "imgBigHeight": 965,
+    "imgBigHeight": 1295,
     "title": "&laquo;Historical Games&raquo; - Интернет магазин",
     "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Галерея товаров, Страница контактов</span>",
