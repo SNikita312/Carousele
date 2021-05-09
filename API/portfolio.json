@@ -15,19 +15,6 @@
   },
   {
     "id": 2,
-    "name": "Fengo",
-    "imgCatalogBig": "Fengo-catalog-big.jpg",
-    "imgBig": "proj3.jpg",
-    "imgSmall": false,
-    "imgBigHeight": 768,
-    "title": "&laquo;Fengo-Shop&raquo; - Интернет магазин",
-    "notAdaptive": false,
-    "pageInfo": "Страницы: <span>Только Домашняя страница</span>",
-    "about": "О проекте: <span>Интернет магазин брендовой одежды. Карточки товара: акционные, распродажа. Выпадающие меню. Реализованы 3 различных слайдера на Vanilla JS. Присутствует модуль поиска в реальном времени. Все данные подгружаются с импровизированного сервера.</span>",
-    "optional" : false
-  },
-  {
-    "id": 3,
     "name": "Games",
     "imgCatalogBig": "historical-home-catalog-big.jpg",
     "imgBig": "proj2.jpg",
@@ -39,5 +26,18 @@
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Галерея товаров, Страница контактов</span>",
     "about": "О проекте: <span>Интернет магазин видео игр. Присутсвуют блоки акционных товаров, карточки товара. Реализованы: Слайдер, Аккордеон. Эффекты анимаций и наведений.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
+  },
+  {
+    "id": 3,
+    "name": "Fengo",
+    "imgCatalogBig": "Fengo-catalog-big.jpg",
+    "imgBig": "proj3.jpg",
+    "imgSmall": false,
+    "imgBigHeight": 768,
+    "title": "&laquo;Fengo-Shop&raquo; - Интернет магазин",
+    "notAdaptive": false,
+    "pageInfo": "Страницы: <span>Только Домашняя страница</span>",
+    "about": "О проекте: <span>Интернет магазин брендовой одежды. Карточки товара: акционные, распродажа. Выпадающие меню. Реализованы 3 различных слайдера на Vanilla JS. Присутствует модуль поиска в реальном времени. Все данные подгружаются с импровизированного сервера.</span>",
+    "optional" : false
   }
 ]
