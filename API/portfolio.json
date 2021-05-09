@@ -7,7 +7,7 @@
     "imgSmall": false,
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -20,7 +20,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -33,7 +33,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -46,7 +46,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -59,7 +59,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -72,7 +72,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -85,7 +85,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -98,7 +98,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -111,7 +111,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -124,7 +124,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -137,7 +137,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
@@ -150,7 +150,7 @@
     "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
-    "notAdaptive": "Проект не адаптивный",
+    "notAdaptive": true,
     "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
     "about": "О проекте: <span>Интернет магазин брендовой одежды. Присутсвуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
     "optional" : "Дополнительно: <span>Ведутся работы по переносу проэкта на Vue.js."
