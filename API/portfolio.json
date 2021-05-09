@@ -28,9 +28,9 @@
   {
     "id": 3,
     "name": "Games",
-    "imgCatalogBig": "brand-home-catalog-big.jpg",
+    "imgCatalogBig": "historical-home-catalog-big.jpg",
     "imgBig": "proj2.jpg",
-    "imgSmall": ["brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg","brand-checkout-catalog-small.jpg"],
+    "imgSmall": ["historical-gallery-catalog-small.jpg","historical-product-catalog-small.jpg","historical-contact-catalog-small.jpg"],
     "imgBigHeight": 965,
     "title": "&laquo;BRAND-Shop&raquo; - Интернет магазин",
     "notAdaptive": true,
