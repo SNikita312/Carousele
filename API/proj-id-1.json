@@ -5,42 +5,52 @@
     "text": "Базовая верстка без Js. Продуманны эффекты наведения и&nbsp;кликов. Страницы выглядят живыми даже без Js. Готова структура для адаптации проэкта под любой фраймворк. Выполнен в&nbsp;соответствии с&nbsp;дизайном (за&nbsp;исключением некоторых эллементов наведения).",
     "path": "./brand/index.html",
     "images": [{
+      "id": 1,
       "small": "brand-1.jpg",
       "big": "brand-1-big.jpg",
       "desc": "Впадающее меню корзины"
     },{
+      "id": 2,
       "small": "brand-2.jpg",
       "big": "brand-2-big.jpg",
       "desc": "Выпадающее мега-меню"
     },{
+      "id": 3,
       "small": "brand-3.jpg",
       "big": "brand-3-big.jpg",
       "desc": "Карточки товара"
     },{
+      "id": 4,
       "small": "brand-4.jpg",
       "big": "brand-4-big.jpg",
       "desc": "Выпадающие категории поиска"
     },{
+      "id": 5,
       "small": "brand-5.jpg",
       "big": "brand-5-big.jpg",
       "desc": "Форма фильтрации"
     },{
+      "id": 6,
       "small": "brand-6.jpg",
       "big": "brand-6-big.jpg",
       "desc": "&laquo;чек-аута&raquo;"
     },{
+      "id": 7,
       "small": "brand-7.jpg",
       "big": "brand-7-big.jpg",
       "desc": "Корзина с товарами"
     },{
+      "id": 8,
       "small": "brand-8.jpg",
       "big": "brand-8-big.jpg",
       "desc": "Форма оплаты"
     },{
+      "id": 9,
       "small": "brand-9.jpg",
       "big": "brand-9-big.jpg",
       "desc": "Страница товара"
     },{
+      "id": 10,
       "small": "brand-10.jpg",
       "big": "brand-10-big.jpg",
       "desc": "Меню редактирования товара"
