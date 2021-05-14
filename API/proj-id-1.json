@@ -1,0 +1,49 @@
+[
+  {
+    "title": "&laquo;Brand Shop&raquo;&nbsp;&mdash; интернет магазин брендовой одежды",
+    "adaptive": false,
+    "text": "Базовая верстка без Js. Продуманны эффекты наведения и&nbsp;кликов. Страницы выглядят живыми даже без Js. Готова структура для адаптации проэкта под любой фраймворк. Выполнен в&nbsp;соответствии с&nbsp;дизайном (за&nbsp;исключением некоторых эллементов наведения).",
+    "path": "./brand/index.html",
+    "images": [{
+      "small": "brand-1.jpg",
+      "big": "brand-1-big.jpg",
+      "desc": "Впадающее меню корзины"
+    },{
+      "small": "brand-2.jpg",
+      "big": "brand-2-big.jpg",
+      "desc": "Выпадающее мега-меню"
+    },{
+      "small": "brand-3.jpg",
+      "big": "brand-3-big.jpg",
+      "desc": "Карточки товара"
+    },{
+      "small": "brand-4.jpg",
+      "big": "brand-4-big.jpg",
+      "desc": "Выпадающие категории поиска"
+    },{
+      "small": "brand-5.jpg",
+      "big": "brand-5-big.jpg",
+      "desc": "Форма фильтрации"
+    },{
+      "small": "brand-6.jpg",
+      "big": "brand-6-big.jpg",
+      "desc": "&laquo;чек-аута&raquo;"
+    },{
+      "small": "brand-7.jpg",
+      "big": "brand-7-big.jpg",
+      "desc": "Корзина с товарами"
+    },{
+      "small": "brand-8.jpg",
+      "big": "brand-8-big.jpg",
+      "desc": "Форма оплаты"
+    },{
+      "small": "brand-9.jpg",
+      "big": "brand-9-big.jpg",
+      "desc": "Страница товара"
+    },{
+      "small": "brand-10.jpg",
+      "big": "brand-10-big.jpg",
+      "desc": "Меню редактирования товара"
+    }]
+  }
+]
