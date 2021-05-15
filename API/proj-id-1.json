@@ -8,52 +8,62 @@
       "id": 1,
       "small": "brand-1.jpg",
       "big": "brand-1-big.jpg",
-      "desc": "Впадающее меню корзины"
+      "desc": "Впадающее меню корзины",
+      "active": false
     },{
       "id": 2,
       "small": "brand-2.jpg",
       "big": "brand-2-big.jpg",
-      "desc": "Выпадающее мега-меню"
+      "desc": "Выпадающее мега-меню",
+      "active": false
     },{
       "id": 3,
       "small": "brand-3.jpg",
       "big": "brand-3-big.jpg",
-      "desc": "Карточки товара"
+      "desc": "Карточки товара",
+      "active": false
     },{
       "id": 4,
       "small": "brand-4.jpg",
       "big": "brand-4-big.jpg",
-      "desc": "Выпадающие категории поиска"
+      "desc": "Выпадающие категории поиска",
+      "active": false
     },{
       "id": 5,
       "small": "brand-5.jpg",
       "big": "brand-5-big.jpg",
-      "desc": "Форма фильтрации"
+      "desc": "Форма фильтрации",
+      "active": false
     },{
       "id": 6,
       "small": "brand-6.jpg",
       "big": "brand-6-big.jpg",
-      "desc": "&laquo;чек-аута&raquo;"
+      "desc": "&laquo;чек-аута&raquo;",
+      "active": false
     },{
       "id": 7,
       "small": "brand-7.jpg",
       "big": "brand-7-big.jpg",
-      "desc": "Корзина с товарами"
+      "desc": "Корзина с товарами",
+      "active": false
     },{
       "id": 8,
       "small": "brand-8.jpg",
       "big": "brand-8-big.jpg",
-      "desc": "Форма оплаты"
+      "desc": "Форма оплаты",
+      "active": false
     },{
       "id": 9,
       "small": "brand-9.jpg",
       "big": "brand-9-big.jpg",
-      "desc": "Страница товара"
+      "desc": "Страница товара",
+      "active": false
     },{
       "id": 10,
       "small": "brand-10.jpg",
       "big": "brand-10-big.jpg",
-      "desc": "Меню редактирования товара"
+      "desc": "Меню редактирования товара",
+      "active": false
     }]
 }
 
